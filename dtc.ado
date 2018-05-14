@@ -1,6 +1,6 @@
 capture program drop dtc
 
-program define dtc,sortpreserve
+program define dtc
 
 version 15
 
